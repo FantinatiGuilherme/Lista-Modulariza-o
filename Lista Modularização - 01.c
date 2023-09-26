@@ -39,6 +39,8 @@ void subtracao(int a , int b){
         subtracao *= -1;
     }
     
+    scanf //comando 
+    
     printf("Diferença entre os numeros : %d", subtracao);
 }
 
